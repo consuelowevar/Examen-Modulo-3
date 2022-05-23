@@ -1,0 +1,32 @@
+body {
+    background-color: #232323;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+.square {
+    float: left;
+    width: 30%;
+    height: 0;
+    padding-bottom: 30%;
+    background-color: rgb(92, 211, 32);
+    margin: 10px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+#message {
+    color:rgb(255, 255, 255);
+}
+
+#stripe {
+    color:rgb(255, 255, 255);
+    height: 30px;
+    text-align: center;
+}
